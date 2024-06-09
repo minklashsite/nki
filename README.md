@@ -1,6 +1,5 @@
  agregar una tercera galería en el futuro:
 
-```markdown
 # Galerías de Imágenes - Guía de Implementación
 
 Este proyecto muestra cómo implementar múltiples galerías de imágenes en una página HTML utilizando JavaScript. Actualmente, el proyecto cuenta con dos galerías, y esta guía proporcionará los pasos necesarios para agregar una tercera galería de manera eficiente.
